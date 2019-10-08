@@ -6,5 +6,5 @@ Secondly, Gabor texture information of each superpixel is calculated. This is ac
 After computing Gabor features of each superpixel, lab color space is used to find color representations of each superpixel.
 Then, in order to group the superpixels K-means clustering algorithm is used.
 
-Further detailed description and results can be find from : [Project Report]()
+Further detailed description and results can be find from : [Project Report](Image_Segmentation_Report.pdf)
 
